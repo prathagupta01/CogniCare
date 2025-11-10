@@ -31,6 +31,21 @@ ML Model	Scikit-learn (Random Forest)<br>
 Database (Optional)	SQLite<br>
 Hosting	Streamlit Cloud / Render<br>
 
+ ## Website Interface
+ 
+ Here are some screenshots of the website UI:
+ 
+ ### Home Page
+ 
+ ![Home Page](images/homepage.png)
+ 
+ ### Analysis Page
+ 
+ ![Analysis Page](images/analysis.png)
+ 
+ ### Results Page
+ 
+ ![Results Page](images/result.png)
  
 ## UI Plan
 
